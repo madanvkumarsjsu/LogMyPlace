@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Log My Place</string>
+    <string name="showlocation_btn">Capture Location</string>
+    <string name="GetMyPlace">Get My Place</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_places">Places Info</string>
+
+</resources>
